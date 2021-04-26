@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @geetyarachowdhury
 - 👀 I’m interested in Web development
-- 🌱 I’m currently improving my skillsets and some new technologies.
+- 🌱 I’m currently improving my skillsets and learning some new technologies.
 - 💞️ I’m looking to collaborate on web development or backend
 - 📫 How to reach me: through social media or you can mail me as well
 
